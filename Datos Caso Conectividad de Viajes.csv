@@ -1,0 +1,29 @@
+Origen;Destino;Hora Salida;Hora Llegada
+Buenos Aires;Santiago;16:00;18:00
+Santiago;Buenos Aires;22:30;0:30
+Buenos Aires;Lima;7:30;12:30
+Lima;Buenos Aires;12:00;17:00
+Sao Paulo;Lima;8:30;13:30
+Lima;Sao Paulo;16:30;21:30
+Sao Paulo;Santiago;14:30;18:30
+Santiago;Sao Paulo;19:30;23:30
+Santiago;Lima;10:30;14:30
+Lima;Santiago;15:00;19:00
+Santiago;Sydney;20:00;9:00
+Sydney;Santiago;0:00;13:00
+Santiago;Calama;20:30;22:30
+Calama;Santiago;19:00;21:00
+Santiago;Isla de Pascua;20:15;1:15
+Isla de Pascua;Santiago;9:00;14:00
+Lima;Miami;16:00;22:00
+Miami;Lima;8:30;14:30
+Lima;Nueva York;18:00;2:00
+Nueva York;Lima;4:00;12:00
+Lima;Cuzco;17:00;18:00
+Cuzco;Lima;12:00;13:00
+Sao Paulo;Madrid;23:00;9:00
+Madrid;Sao Paulo;10:00;20:00
+Sao Paulo;Londres;23:15;9:15
+Londres;Sao Paulo;12:00;22:00
+Sao Paulo;Rio;22:55;23:55
+Rio;Sao Paulo;20:00;21:00
